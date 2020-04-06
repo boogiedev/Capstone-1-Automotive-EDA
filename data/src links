@@ -1,0 +1,19 @@
+Most Likely to Use:
+thecarconnectiondataset.csv -> https://github.com/nicolas-gervais/predicting-car-price-from-scraped-data/blob/master/scraping
+                            -> https://thecarconnection.com
+carfeaturesmsrp.csv         -> https://www.kaggle.com/CooperUnion/cardataset
+                            -> https://edmunds.com
+                            -> https://twitter.com
+motortrend1974.csv          -> https://figshare.com/articles/Motor_Trend_Car_Road_Tests/3122005
+
+Links to Look Into:
+
+-automotive model/year data -> https://github.com/n8barr/automotive-model-year-data
+-https://portal.a2mac1.com/
+-https://www.fev-sts.com/solutions.html
+-https://data.world/jackchang/carsdata
+
+EDA Samples:
+-https://github.com/sanithps98/Automobile-Dataset-Analysis
+-https://www.rpubs.com/dksmith01/cars
+-https://rpubs.com/krishnaiitd/motortrend
