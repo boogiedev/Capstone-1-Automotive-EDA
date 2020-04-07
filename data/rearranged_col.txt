@@ -1,0 +1,41 @@
+Year
+Brand
+Model
+Style Name
+Drivetrain
+Horsepower
+Torque
+Engine Type
+Displacement(L)
+Base Curb Weight (lbs)
+Gas Mileage (Combined)
+MSRP($)
+Transmission
+Body Style
+Fuel System
+First Gear Ratio (:1)
+Second Gear Ratio (:1)
+Third Gear Ratio (:1)
+Fourth Gear Ratio (:1)
+Fifth Gear Ratio (:1)
+Sixth Gear Ratio (:1)
+Seventh Gear Ratio (:1)
+Eighth Gear Ratio (:1)
+Reverse Ratio (:1)
+Final Drive Axle Ratio (:1)
+Steering Type
+Front Tire Size
+Gas Mileage (City)
+Gas Mileage (Hwy)
+Engine
+EPA Class
+Passenger Capacity
+Passenger Doors
+Wheelbase (in)
+Min Ground Clearance (in)
+Track Width, Front (in)
+Track Width, Rear (in)
+Height, Overall (in)
+@ RPM (HP)
+@ RPM (TQ)
+Rear Tire Size
