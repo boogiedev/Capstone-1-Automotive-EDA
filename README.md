@@ -87,9 +87,15 @@ Going into this EDA originally, I was set on trying to compare common features o
 
 </details> 
 
+Ever since the mishap of finding possibly corrupted data, as well as choosing a topic/hypothesis that was unsupportable or unquantifiable at this point (with my skillset), I started to delve deeper into the data. I knew I needed to visualize and compare different specifications against each other in order to find something interesting. 
 
- 
+<br> 
 
+> With a 2020 mindset and considering the trajectory of car specifications over the years, I thought to myself, "*What are some important aspects that come to mind when people pick a car*? 
+
+<br>
+
+That's when it hit me! I started to focus my visualizations and comparisons over a car's MPG (Miles per Gallon). Over 10-20 plots later, and with the help of [Pandas-Profiling](https://github.com/pandas-profiling/pandas-profiling), I was finally able to reformulate a hypothesis.  
 
 ---
 <sub>[  **[Back to Sections](#sections)** ]</sub>
