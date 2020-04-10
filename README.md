@@ -196,13 +196,19 @@ After exploring the data, and thanks to the help of Tony and Andrew (my instruct
 ## Analysis
 <br>
 
-<details>
-  <summary>
-    <b> MPG vs Cylinder Testing</b>  
-  </summary>
-  <img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/focused_img/4v5bootstrap.png">
-  </img>
-</details>
+### MPG vs Cylinder Testing  <br>
+
+```python
+# Five Cylinder Car 5 Num Sum for MPG
+five_cyl_desc = five_cyl_cars["Gas Mileage (Combined)"].describe()
+five_cyl_desc
+```
+```python
+# Four Cylinder Car 5 Num Sum for MPG
+four_cyl_desc = four_cyl_cars["Gas Mileage (Combined)"].describe()
+four_cyl_desc
+```
+<img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/focused_img/4v5bootstrap.png">
 
 
 
