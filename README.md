@@ -47,7 +47,7 @@ Going into this EDA originally, I was set on trying to compare common features o
 ---
 <sub>[  **[Back to Sections](#sections)** ]</sub>
 
-## Exploration 
+## Exploration
 ### Graphs/Visualizations:
  |  **[Averge MPG by Manufacturer](#Average-MPG-by-Manufacturer)**  |
  **[Horsepower to MPG](#MPG-to-Horsepower-Scatter-Plot)**  |
@@ -55,10 +55,13 @@ Going into this EDA originally, I was set on trying to compare common features o
  **[Weight to MPG](#MPG-to-Weight-Scatter-Plot)**  |
  **[Passenger Door to MPG](#MPG-to-Passenger-Doors-Density-Plot)**  |<br>
  |  **[Cylinders to MPG](#MPG-to-n_Cylinders-Density-Plot)**  |
+<details>
+  <summary>
+    Show Graphs
+  </summary>
+<br>
 
- 
 > The rabbit hole of exploration
-
 #### Average MPG by Manufacturer  
 <img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/avgmpgbrand.png" width="80%"></img>
 <br>| **[Back](#graphsvisualizations)** |
@@ -81,6 +84,12 @@ Going into this EDA originally, I was set on trying to compare common features o
 #### MPG-to-n_Cylinders-Density-Plot
 <img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/mpgbycyldense.png" width="80%"></img>
 <br>| **[Back](#graphsvisualizations)** |
+
+</details> 
+
+
+ 
+
 
 ---
 <sub>[  **[Back to Sections](#sections)** ]</sub>
