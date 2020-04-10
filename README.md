@@ -10,7 +10,7 @@ EDA on Automotive Dataset Scraped from www.theCarConnection.com, ~~www.0-60Specs
 ## Sections:
  |  **[Introduction](#introduction)**  |
  **[Data Cleaning](#data-cleaning)**  |
- **[Hypothesis...?](#Hmm...Hypothesis?)**  |
+ **[Hypothesis...?](#not-really-a-hypothesis)**  |
  **[Exploration](#exploration)**  |
  **[Hypothesis](#hypothesis)**  |
  **[Analysis](#analysis)**  |
@@ -32,7 +32,7 @@ Cleaned Dataset:
 ![Cleaned Dataset](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/clean_dataset.png)
 
 ---
-## Hmm...Hypothesis?
+## Not Really a Hypothesis
 Going into this EDA originally, I was set on trying to compare common features of cars with 0-60 times on a continuous scale, but I soon realized that I was biting off much more than I could chew. I also found out that some of the sources that I was preparing to scrape (crossed out above) had pieces of data in it that were extremely incorrect. 
 
 > Sub 2.0 seconds to 60? On a MANUAL Combustion Engine Car, that's stock??  Source: [0-60 Specs](https://www.0-60specs.com/0-60-times/)
