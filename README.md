@@ -1,5 +1,5 @@
 # Automotive-EDA
-EDA on Automotive Dataset Scraped from www.theCarConnection.com, ~~www.0-times.com~~, and ~~www.zeroto60times.com~~
+EDA on Automotive Dataset Scraped from www.theCarConnection.com, ~~www.0-60Specs.com~~, and ~~www.zeroto60times.com~~
 ![Automotive EDA Header](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/automobiles.jpg)
 
 ![GitHub](https://img.shields.io/github/license/boogiedev/automotive-eda?style=flat-square)
@@ -34,6 +34,9 @@ Cleaned Dataset:
 ---
 ## Hmm...Hypothesis?
 Going into this EDA originally, I was set on trying to compare common features of cars with 0-60 times on a continuous scale, but I soon realized that I was biting off much more than I could chew. I also found out that some of the sources that I was preparing to scrape (crossed out above) had pieces of data in it that were extremely incorrect. 
+
+> Sub 2.0 seconds to 60? On a MANUAL Combustion Engine Car, that's Stock?? Source: [0-60 Specs](https://www.0-60specs.com/0-60-times/)
+![weird 0-60 times](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/0-60bunk.png)
 
 ---
 
