@@ -16,7 +16,7 @@ EDA on Automotive Dataset Scraped from www.theCarConnection.com, ~~www.0-60Specs
  **[Hypothesis...?](#not-really-a-hypothesis)**  |
  **[Exploration](#exploration)**  |
  **[Hypothesis](#hypothesis)**  |
- **[Focused Exploration](#focusedexploration)**  |
+ **[Focused Exploration](#focused-exploration)**  |
  **[Analysis](#analysis)**  |
  **[Future](#future)**  |<br><br>
  |  **[Takeaways](#takeaways)**  |
