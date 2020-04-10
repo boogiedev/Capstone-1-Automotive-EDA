@@ -110,6 +110,14 @@ After exploring the data, and thanks to the help of Tony and Andrew (my instruct
 
 **TLDR: 5-Cylinder Engine configurations offer _no advantages_ over more "Traditional" Engines (I-4, V-6)**
 
+**Null :<br> 
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 5-Cyl Engine configs offer _no advantages_ over I-4, V-6 Engines configs in the categories below**<br>
+**Alternative :<br>
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 5-Cyl Engine configs _do_ offer _advantages_ over I-4, V-6 Engines configs in the categories below**<br>
+
+| Miles Per Gallon (MPG - Combined)  | Horsepower | Torque |
+| ------------- | ------------- | ------------- |
+
 <br>
 
 ---
