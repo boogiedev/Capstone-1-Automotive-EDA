@@ -41,12 +41,25 @@ Going into this EDA originally, I was set on trying to compare common features o
 ---
 
 ## Exploration
+### Graphs/Visualizations:
+ |  **[Averge MPG by Manufacturer](#Average-MPG-by-Manufacturer)**  |
+ **[Horsepower to MPG](#MPG-to-Horsepower-Scatter-Plot)**  |
+ **[Torque to MPG](#MPG-to-Torque-Scatter-Plot)**  |
+ **[Weight to MPG](#MPG-to-Weight-Scatter-Plot)**  |
+ **[Passenger Door to MPG](#MPG-to-Passenger-Doors-Density-Plot)**  |
+
+ 
 > The rabbit hole of exploration
 
+#### Average MPG by Manufacturer
 ![avgMPGbyBrand](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/avgmpgbrand.png)
+#### MPG to Horsepower Scatter Plot
 ![mpgbyhp](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/mpgbyhp.png)
+#### MPG to Torque Scatter Plot
 ![mpgbytq](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/mpgbytq.png)
+#### MPG to Weight Scatter Plot
 ![mpgbyweight](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/mpgbyweight.png)
+#### MPG to Passenger Doors Density Plot
 > Getting a little desperate to find something meaningful...
 ![mpgbydoors](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/mpgbydoorsDensity.png)
 
