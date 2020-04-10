@@ -16,6 +16,7 @@ EDA on Automotive Dataset Scraped from www.theCarConnection.com, ~~www.0-60Specs
  **[Hypothesis...?](#not-really-a-hypothesis)**  |
  **[Exploration](#exploration)**  |
  **[Hypothesis](#hypothesis)**  |
+ **[Focused Exploration](#focusedexploration)**  |
  **[Analysis](#analysis)**  |
  **[Future](#future)**  |<br><br>
  |  **[Takeaways](#takeaways)**  |
@@ -119,6 +120,16 @@ After exploring the data, and thanks to the help of Tony and Andrew (my instruct
 | ------------- | ------------- | ------------- |
 
 <br>
+
+---
+<sub>[  **[Back to Sections](#sections)** ]</sub>
+
+## Focused Exploration
+ |  **[Plot Here](#plothere)**  |
+
+#### Plot Here  
+<img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/" width="80%"></img>
+
 
 ---
 <sub>[  **[Back to Sections](#sections)** ]</sub>
