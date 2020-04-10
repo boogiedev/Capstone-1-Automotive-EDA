@@ -10,7 +10,7 @@ EDA on Automotive Dataset Scraped from www.theCarConnection.com, ~~www.0-60Specs
 ## Sections:
  |  **[Introduction](#introduction)**  |
  **[Data Cleaning](#data-cleaning)**  |
- **[Hypothesis...?](#hmm...hypothesis?)**  |
+ **[Hypothesis...?](#Hmm...Hypothesis?)**  |
  **[Exploration](#exploration)**  |
  **[Hypothesis](#hypothesis)**  |
  **[Analysis](#analysis)**  |
