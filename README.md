@@ -31,19 +31,19 @@ As you can see, the original intake dataset... was all kinds of misshaped (+3000
 Cleaned Dataset:
 ![Cleaned Dataset](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/clean_dataset.png)
 
-
 ---
 ## Hmm...Hypothesis?
-
-
-
+Going into this EDA originally, I was set on trying to compare common features of cars with 0-60 times on a continuous scale, but I soon realized that I was biting off much more than I could chew.
 
 ---
 
 ## Exploration
-
-
-
+> The rabbit hole of exploration
+![avgMPGbyBrand](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/avgmpgbrand.png)
+![mpgbyhp](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/mpgbyhp.png)
+![mpgbytq](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/mpgbytq.png)
+![mpgbyweight](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/mpgbyweight.png)
+![mpgbydoors](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/mpgbydoorsDensity.png)
 
 ---
 ## Hypothesis
