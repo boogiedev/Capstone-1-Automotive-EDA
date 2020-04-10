@@ -14,8 +14,8 @@ EDA on Automotive Dataset Scraped from www.theCarConnection.com, ~~www.0-60Specs
  **[Exploration](#exploration)**  |
  **[Hypothesis](#hypothesis)**  |
  **[Analysis](#analysis)**  |
- **[Future](#future)**  |
- **[Takeaways](#takeaways)**  |
+ **[Future](#future)**  |<br><br>
+ |  **[Takeaways](#takeaways)**  |
  **[Shoutouts](#shoutouts)**  |
  
 ---
@@ -33,6 +33,8 @@ Cleaned Dataset:
 ![Cleaned Dataset](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/clean_dataset.png)
 
 ---
+<sub>[  **[Back to Sections](#sections)** ]</sub>
+
 ## Not Really a Hypothesis
 Going into this EDA originally, I was set on trying to compare common features of cars with 0-60 times on a continuous scale, but I soon realized that I was biting off much more than I could chew. I also found out that some of the sources that I was preparing to scrape (crossed out above) had pieces of data in it that were extremely incorrect. 
 
@@ -40,8 +42,9 @@ Going into this EDA originally, I was set on trying to compare common features o
 ![weird 0-60 times](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/0-60bunk.png)
 
 ---
+<sub>[  **[Back to Sections](#sections)** ]</sub>
 
-## Exploration
+## Exploration 
 ### Graphs/Visualizations:
  |  **[Averge MPG by Manufacturer](#Average-MPG-by-Manufacturer)**  |
  **[Horsepower to MPG](#MPG-to-Horsepower-Scatter-Plot)**  |
@@ -77,29 +80,39 @@ Going into this EDA originally, I was set on trying to compare common features o
 <br>| **[Back](#graphsvisualizations)** |
 
 ---
+<sub>[  **[Back to Sections](#sections)** ]</sub>
+
 ## Hypothesis
 After exploring the data, and thanks to the help of Tony and Andrew (my instructors) we saw that the MPG distribution of 5-Cylinder engines were Bimodal! This was interesting! Even having a bit of domain knowledge about cars, I couldn't exactly explain, or even prove why this was the case. So here we go! 
 
 
 
 ---
+<sub>[  **[Back to Sections](#sections)** ]</sub>
+
 ## Analysis
 
 
 
 
 ---
+<sub>[  **[Back to Sections](#sections)** ]</sub>
+
 ## Future
 - Implement more Hypothesis Testing on other categories in Engine output -> Bonferroni Correction
 - Actually Source 0-60 Data or Clean existing
 - Source Data on Engine Dynamics
 ---
+<sub>[  **[Back to Sections](#sections)** ]</sub>
+
 ## Shoutouts
 - All the Galvanize DS 120 Instructors for the Guidance
 - All the Galvanize DS 120 Instructors for listening to me stress
 - All the Galvanize DS 120 Instructors for being with me through my ups and downs
 - Pandas-Profiling for carrying me and my current lack of a statistical eye 
 ---
+<sub>[  **[Back to Sections](#sections)** ]</sub>
+
 ## Takeaways
 <img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/saitamanervous.gif" width="300"></img>
 
