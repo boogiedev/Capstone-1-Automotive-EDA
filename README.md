@@ -108,7 +108,7 @@ After exploring the data, and thanks to the help of Tony and Andrew (my instruct
 
 <br>
 
-**TLDR: 5-Cylinder Engine configurations offer _no advantages_ over other "Traditional" Engines (I-4, V-6)**
+**TLDR: 5-Cylinder Engine configurations offer _no advantages_ over more "Traditional" Engines (I-4, V-6)**
 
 <br>
 
