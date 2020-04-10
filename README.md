@@ -15,6 +15,7 @@ EDA on Automotive Dataset Scraped from www.theCarConnection.com, ~~www.0-60Specs
  **[Hypothesis](#hypothesis)**  |
  **[Analysis](#analysis)**  |
  **[Future](#future)**  |
+ **[Takeaways](#takeaways)**  |
  **[Shoutouts](#shoutouts)**  |
  
 ---
@@ -93,5 +94,7 @@ After exploring the data, and thanks to the help of Tony and Andrew (my instruct
 - All the Galvanize DS 120 Instructors for being with me through my ups and downs
 - Pandas-Profiling for carrying me and my current lack of a statistical eye 
 ---
+## Takeaways
+![saitama nervous](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/saitamanervous.gif)
 
-
+---
