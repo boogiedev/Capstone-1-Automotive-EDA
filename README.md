@@ -35,7 +35,7 @@ Cleaned Dataset:
 ## Hmm...Hypothesis?
 Going into this EDA originally, I was set on trying to compare common features of cars with 0-60 times on a continuous scale, but I soon realized that I was biting off much more than I could chew. I also found out that some of the sources that I was preparing to scrape (crossed out above) had pieces of data in it that were extremely incorrect. 
 
-> Sub 2.0 seconds to 60? On a MANUAL Combustion Engine Car, that's Stock?? Source: [0-60 Specs](https://www.0-60specs.com/0-60-times/)
+> Sub 2.0 seconds to 60? On a MANUAL Combustion Engine Car, that's stock??  Source: [0-60 Specs](https://www.0-60specs.com/0-60-times/)
 ![weird 0-60 times](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/0-60bunk.png)
 
 ---
@@ -47,6 +47,7 @@ Going into this EDA originally, I was set on trying to compare common features o
  **[Torque to MPG](#MPG-to-Torque-Scatter-Plot)**  |
  **[Weight to MPG](#MPG-to-Weight-Scatter-Plot)**  |
  **[Passenger Door to MPG](#MPG-to-Passenger-Doors-Density-Plot)**  |
+ **[Cylinders to MPG](#MPG-to-n_Cylinders-Density-Plot)**  |
 
  
 > The rabbit hole of exploration
@@ -65,7 +66,7 @@ Going into this EDA originally, I was set on trying to compare common features o
 
 <br><br><br>
 > Untill...
-
+#### MPG-to-n_Cylinders-Density-Plot
 ![mpgbycyldense](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/mpgbycyldense.png)
 
 ---
