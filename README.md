@@ -203,11 +203,49 @@ After exploring the data, and thanks to the help of Tony and Andrew (my instruct
 five_cyl_desc = five_cyl_cars["Gas Mileage (Combined)"].describe()
 five_cyl_desc
 ```
+<details>
+  <summary>
+    Output
+  </summary>
+  
+| count | 528.000000 |
+| ------------- | ------------- |
+| mean | 22.696970 |
+| std | 2.969809 |
+| min | 15.000000 |
+| 25% | 20.000000 |
+| 50% | 23.000000 |
+| 75% | 25.000000 |
+| max | 27.500000 |
+| Name: Gas Mileage (Combined), dtype: float64 |
+  
+  
+</details>
+
 ```python
 # Four Cylinder Car 5 Num Sum for MPG
 four_cyl_desc = four_cyl_cars["Gas Mileage (Combined)"].describe()
 four_cyl_desc
 ```
+<details>
+  <summary>
+    Output
+  </summary>
+  
+| count | 10107.000000 |
+| ------------- | ------------- |
+| mean | 27.139705 |
+| std | 5.051244 |
+| min | 17.000000 |
+| 25% | 24.000000 |
+| 50% | 26.000000 |
+| 75% | 29.000000 |
+| max | 58.500000 |
+| Name: Gas Mileage (Combined), dtype: float64 |
+
+
+</details>
+
 <img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/focused_img/4v5bootstrap.png">
 
 
