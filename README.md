@@ -45,6 +45,8 @@ EDA on Automotive Dataset Scraped from www.theCarConnection.com, ~~www.0-times.c
 ## Hypothesis
 
 
+
+
 ---
 ## Analysis
 
@@ -53,16 +55,14 @@ EDA on Automotive Dataset Scraped from www.theCarConnection.com, ~~www.0-times.c
 
 ---
 ## Future
-
-
-
-
+- Implement more Hypothesis Testing on other categories in Engine output -> Bonferroni Correction
+- Actually Source 0-60 Data or Clean existing
+- Source Data on Engine Dynamics
 ---
-
 ## Shoutouts
-
-
-
+- All the Galvanize DS 120 Instructors for the Guidance
+- All the Galvanize DS 120 Instructors for listening to me stress
+- All the Galvanize DS 120 Instructors for being with me through my ups and downs
 
 ---
 
