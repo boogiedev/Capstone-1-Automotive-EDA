@@ -63,7 +63,7 @@ EDA on Automotive Dataset Scraped from www.theCarConnection.com, ~~www.0-times.c
 - All the Galvanize DS 120 Instructors for the Guidance
 - All the Galvanize DS 120 Instructors for listening to me stress
 - All the Galvanize DS 120 Instructors for being with me through my ups and downs
-
+- Pandas-Profiling for carrying me and my current lack of a statistical eye 
 ---
 
 
