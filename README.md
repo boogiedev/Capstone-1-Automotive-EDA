@@ -19,7 +19,7 @@ EDA on Automotive Dataset Scraped from www.theCarConnection.com, ~~www.0-times.c
  
 ---
 ## Introduction
-
+This is by all means a student project (my first eda!), which means the data that is sourced, cleaned, analyzed, etc will not always be perfect. If you see an issue please submit a ticket so I can fix it. 
 
 
 ---
