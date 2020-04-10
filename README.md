@@ -96,9 +96,78 @@ That's when it hit me! I started to focus my visualizations and comparisons over
 ---
 <sub>[  **[Back to Sections](#sections)** ]</sub>
 
-## Hypothesis
+## Focused Exploration
+
+It was on this plot that I was pointed out that 5 Cylinder engines have a *Bimodal* distribution when it comes to their MPG
 
 > #### MPG-to-n_Cylinders-Density-Plot <img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/mpgbycyldense.png" width="80%"></img><br>
+
+As you can see, with the graphs, there has been a progression on centering the focus of what exact pieces of data I wanted to further explore 
+
+<details>
+  <summary>
+    <b> Histogram of MPG of 5-CYL Engines with Dist </b>  
+  </summary>
+  <img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/focused_img/5cylmpgdist.png">
+  </img>
+</details>
+
+<details>
+  <summary>
+    <b> MPG Dist of 5-CYL Engines by Manufacturer </b>  
+  </summary>
+  <img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/focused_img/5cylmpgbymodel.png">
+  </img>
+  <img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/focused_img/5cylmpgbymodelgran.png">
+  </img>
+</details>
+
+<details>
+  <summary>
+    <b> 5-CYL MPG Averages by Model  </b>  
+  </summary>
+  <img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/focused_img/mpgavg5cylmodel.png">
+  </img>
+</details>
+
+---
+
+<details>
+  <summary>
+    <b> 5-CYL Horsepower/Torque Averages by Model  </b>  
+  </summary>
+  <img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/focused_img/hptqavgmodel.png">
+  </img>
+</details>
+
+<details>
+  <summary>
+    <b> 5-CYL Horsepower Densities by Manufacturer  </b>  
+  </summary>
+  <img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/focused_img/5cylhpmanufacturer.png">
+  </img>
+</details>
+
+<details>
+  <summary>
+    <b> Power Densities by Cylinder  </b>  
+  </summary>
+  <img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/focused_img/powdistbycyl.png">
+  </img>
+</details>
+
+<details>
+  <summary>
+    <b> Power Densities by Cylinder  </b>  
+  </summary>
+  <img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/focused_img/powdistbycyl.png">
+  </img>
+</details>
+
+---
+<sub>[  **[Back to Sections](#sections)** ]</sub>
+
+## Hypothesis
 
 After exploring the data, and thanks to the help of Tony and Andrew (my instructors) we saw that the MPG distribution of 5-Cylinder engines were Bimodal! This was interesting! Even having a bit of domain knowledge about cars, I couldn't exactly explain, or even prove why this was the case. 
 <br>
@@ -124,17 +193,18 @@ After exploring the data, and thanks to the help of Tony and Andrew (my instruct
 ---
 <sub>[  **[Back to Sections](#sections)** ]</sub>
 
-## Focused Exploration
- |  **[Plot Here](#plothere)**  |
-
-#### Plot Here  
-<img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/" width="80%"></img>
-
-
----
-<sub>[  **[Back to Sections](#sections)** ]</sub>
-
 ## Analysis
+<br>
+
+<details>
+  <summary>
+    <b> MPG vs Cylinder Testing</b>  
+  </summary>
+  <img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/focused_img/4v5bootstrap.png">
+  </img>
+</details>
+
+
 
 
 
@@ -158,6 +228,6 @@ After exploring the data, and thanks to the help of Tony and Andrew (my instruct
 <sub>[  **[Back to Sections](#sections)** ]</sub>
 
 ## Takeaways
-<img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/saitamanervous.gif" width="300"></img>
+<img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/saitamanervous.gif" width="220"></img>
 
 ---
