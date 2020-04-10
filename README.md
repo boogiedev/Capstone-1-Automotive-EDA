@@ -2,9 +2,12 @@
 EDA on Automotive Dataset Scraped from www.theCarConnection.com, ~~www.0-60Specs.com~~, and ~~www.zeroto60times.com~~
 ![Automotive EDA Header](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/automobiles.jpg)
 
-![GitHub](https://img.shields.io/github/license/boogiedev/automotive-eda?style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/boogiedev/automotive-eda?style=flat-square)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/boogiedev/automotive-eda?style=flat-square)
+<p align="center">
+  <img src="https://img.shields.io/badge/Maintained%3F-Kinda-blue?style=flat-square"></img>
+  <img src="https://img.shields.io/github/license/boogiedev/automotive-eda?style=flat-square">
+  <img src="https://img.shields.io/github/repo-size/boogiedev/automotive-eda?style=flat-square">
+  <img src="https://img.shields.io/github/commit-activity/m/boogiedev/automotive-eda?style=flat-square">
+</p>
 
 ---
 ## Sections:
