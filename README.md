@@ -54,21 +54,22 @@ Going into this EDA originally, I was set on trying to compare common features o
 > The rabbit hole of exploration
 
 #### Average MPG by Manufacturer
-![avgMPGbyBrand](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/avgmpgbrand.png)
+<img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/avgmpgbrand.png" width="80%"></img>
 #### MPG to Horsepower Scatter Plot
-![mpgbyhp](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/mpgbyhp.png)
+<img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/mpgbyhp.png" width="80%"></img>
 #### MPG to Torque Scatter Plot
-![mpgbytq](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/mpgbytq.png)
+<img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/mpgbytq.png" width="80%"></img>
 #### MPG to Weight Scatter Plot
-![mpgbyweight](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/mpgbyweight.png)
+<img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/mpgbyweight.png" width="80%"></img>
 #### MPG to Passenger Doors Density Plot
 > Getting a little desperate to find something meaningful...
-![mpgbydoors](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/mpgbydoorsDensity.png)
+<img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/mpgbydoorsDensity.png" width="80%"></img>
 
 <br><br><br>
 > Untill...
 #### MPG-to-n_Cylinders-Density-Plot
-![mpgbycyldense](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/mpgbycyldense.png)
+<img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/mpgbycyldense.png" width="80%"></img>
+
 
 ---
 ## Hypothesis
@@ -95,6 +96,6 @@ After exploring the data, and thanks to the help of Tony and Andrew (my instruct
 - Pandas-Profiling for carrying me and my current lack of a statistical eye 
 ---
 ## Takeaways
-![saitama nervous](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/saitamanervous.gif)
+<img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/saitamanervous.gif" width="300"></img>
 
 ---
