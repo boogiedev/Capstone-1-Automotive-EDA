@@ -10,7 +10,7 @@ EDA on Automotive Dataset Scraped from www.theCarConnection.com, ~~www.0-times.c
 ## Sections:
  |  **[Introduction](#introduction)**  |
  **[Data Cleaning](#data-cleaning)**  |
- **[Hypothesis...?](#hypothesis?)**  |
+ **[Hypothesis...?](#hmm...hypothesis?)**  |
  **[Exploration](#exploration)**  |
  **[Hypothesis](#hypothesis)**  |
  **[Analysis](#analysis)**  |
@@ -19,17 +19,21 @@ EDA on Automotive Dataset Scraped from www.theCarConnection.com, ~~www.0-times.c
  
 ---
 ## Introduction
-This is by all means a student project (my first eda!), which means the data that is sourced, cleaned, analyzed, etc will not always be perfect. If you see an issue please submit a ticket so I can fix it. 
-
-
+Cars come in all shapes and sizes, each with their own unique features and quirks; as humans, we create and design cars to fit our utility needs. Whether this means dropping your 5 kids off to their soccer matches, or smoking someone in a street-race, cars can do everything. Today we'll be looking at a dataset from theCarConnection.com that was scraped by [Nicolas Gervais](https://github.com/nicolas-gervais/predicting-car-price-from-scraped-data/blob/master/scraping).
+This project is mean to be an EDA on the different aspects of Automobiles. What started out with a specific question, has changed numerously throughout the journey of this EDA, so stay tuned to find out!  
+> This is by all means a student project (my first eda!), which means the data that is sourced, cleaned, analyzed, etc will not always be perfect. If you see an issue please submit a ticket so I can fix it 
 ---
 ## Data-Cleaning
+Original Dataset:
+![Original Dataset](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/orig_dataset.png)
+As you can see, the original intake dataset... was all kinds of misshaped (+30000 COLUMNS!), but this is nothing a simple transformation couldn't handle. After cleaning, casting, and adding a some features such as Cylinders, Brand, etc, I was finally able to end up with this.
 
-
+Cleaned Dataset:
+![Cleaned Dataset](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/clean_dataset.png)
 
 
 ---
-## Hypothesis...?
+## Hmm...Hypothesis?
 
 
 
