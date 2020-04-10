@@ -55,26 +55,26 @@ Going into this EDA originally, I was set on trying to compare common features o
 
 #### Average MPG by Manufacturer  
 <img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/avgmpgbrand.png" width="80%"></img>
-| **[Back](#graphsvisualizations)** |
+<br>| **[Back](#graphsvisualizations)** |
 #### MPG to Horsepower Scatter Plot
 <img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/mpgbyhp.png" width="80%"></img>
-| **[Back](#graphsvisualizations)** |
+<br>| **[Back](#graphsvisualizations)** |
 #### MPG to Torque Scatter Plot
 <img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/mpgbytq.png" width="80%"></img>
-| **[Back](#graphsvisualizations)** |
+<br>| **[Back](#graphsvisualizations)** |
 #### MPG to Weight Scatter Plot
 <img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/mpgbyweight.png" width="80%"></img>
-| **[Back](#graphsvisualizations)** |
+<br>| **[Back](#graphsvisualizations)** |
 #### MPG to Passenger Doors Density Plot
 > Getting a little desperate to find something meaningful...
 <img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/mpgbydoorsDensity.png" height="auto" width="80%"></img>
-| **[Back](#graphsvisualizations)** |
+<br>| **[Back](#graphsvisualizations)** |
 
 <br><br><br>
 > Untill...
 #### MPG-to-n_Cylinders-Density-Plot
 <img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/mpgbycyldense.png" width="80%"></img>
-| **[Back](#graphsvisualizations)** |
+<br>| **[Back](#graphsvisualizations)** |
 
 ---
 ## Hypothesis
