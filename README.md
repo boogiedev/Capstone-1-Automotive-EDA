@@ -200,6 +200,8 @@ After attempting to find the correct sort of statistical analysis in this situat
 
 ### MPG vs Cylinder Testing  <br>
 
+<img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/focused_img/5v4mpgdist.png">
+
 ```python
 # Five Cylinder Car 5 Num Sum for MPG
 five_cyl_desc = five_cyl_cars["Gas Mileage (Combined)"].describe()
