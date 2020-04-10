@@ -54,7 +54,6 @@ Going into this EDA originally, I was set on trying to compare common features o
  **[Torque to MPG](#MPG-to-Torque-Scatter-Plot)**  |
  **[Weight to MPG](#MPG-to-Weight-Scatter-Plot)**  |
  **[Passenger Door to MPG](#MPG-to-Passenger-Doors-Density-Plot)**  |<br>
- |  **[Cylinders to MPG](#MPG-to-n_Cylinders-Density-Plot)**  |
 <details>
   <summary>
     Show Graphs
@@ -78,12 +77,8 @@ Going into this EDA originally, I was set on trying to compare common features o
 > Getting a little desperate to find something meaningful...
 <img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/mpgbydoorsDensity.png" height="auto" width="80%"></img>
 <br>| **[Back](#graphsvisualizations)** |
+<br>
 
-<br><br><br>
-> Untill...
-#### MPG-to-n_Cylinders-Density-Plot
-<img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/mpgbycyldense.png" width="80%"></img>
-<br>| **[Back](#graphsvisualizations)** |
 
 </details> 
 
@@ -101,9 +96,21 @@ That's when it hit me! I started to focus my visualizations and comparisons over
 <sub>[  **[Back to Sections](#sections)** ]</sub>
 
 ## Hypothesis
-After exploring the data, and thanks to the help of Tony and Andrew (my instructors) we saw that the MPG distribution of 5-Cylinder engines were Bimodal! This was interesting! Even having a bit of domain knowledge about cars, I couldn't exactly explain, or even prove why this was the case. So here we go! 
 
+> #### MPG-to-n_Cylinders-Density-Plot <img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/mpgbycyldense.png" width="80%"></img><br>
 
+After exploring the data, and thanks to the help of Tony and Andrew (my instructors) we saw that the MPG distribution of 5-Cylinder engines were Bimodal! This was interesting! Even having a bit of domain knowledge about cars, I couldn't exactly explain, or even prove why this was the case. 
+<br>
+
+> My initial thoughts: 
+
+*5-Cylinder engine configurations are somewhat of a novelty engine, where the majority of car models who host this engine are coming from the same manufacturers who are grandfathering in this design choice as a statement of legacy, rather than practicality.*
+
+<br>
+
+**TLDR: 5-Cylinder Engine configurations offer _no advantages_ over other "Traditional" Engines (I-4, V-6)**
+
+<br>
 
 ---
 <sub>[  **[Back to Sections](#sections)** ]</sub>
