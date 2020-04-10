@@ -196,6 +196,8 @@ After exploring the data, and thanks to the help of Tony and Andrew (my instruct
 ## Analysis
 <br>
 
+After attempting to find the correct sort of statistical analysis in this situation, I ended up trying to bootstrap data given by the 5-CYL Dataset. I realized that I ended up going in the wrong direction with all of this, and am showing only a slice of the work that was committed towards analysis.  
+
 ### MPG vs Cylinder Testing  <br>
 
 ```python
@@ -247,8 +249,6 @@ four_cyl_desc
 </details>
 
 <img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/focused_img/4v5bootstrap.png">
-
-
 
 
 
