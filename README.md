@@ -26,28 +26,34 @@ This project is mean to be an EDA on the different aspects of Automobiles. What 
 ## Data-Cleaning
 Original Dataset:
 ![Original Dataset](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/orig_dataset.png)
-As you can see, the original intake dataset... was all kinds of misshaped (+30000 COLUMNS!), but this is nothing a simple transformation couldn't handle. After cleaning, casting, and adding a some features such as Cylinders, Brand, etc, I was finally able to end up with this.
+The world is nowhere near perfect, and as for datasets, even much less so. As you can see, the original intake dataset... was all kinds of misshaped (+30000 COLUMNS!), but this is nothing a simple transformation couldn't handle. After cleaning, casting, and adding a some features such as Cylinders, Brand, etc, I was finally able to end up with this.
 
 Cleaned Dataset:
 ![Cleaned Dataset](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/clean_dataset.png)
 
 ---
 ## Hmm...Hypothesis?
-Going into this EDA originally, I was set on trying to compare common features of cars with 0-60 times on a continuous scale, but I soon realized that I was biting off much more than I could chew.
+Going into this EDA originally, I was set on trying to compare common features of cars with 0-60 times on a continuous scale, but I soon realized that I was biting off much more than I could chew. I also found out that some of the sources that I was preparing to scrape (crossed out above) had pieces of data in it that were extremely incorrect. 
 
 ---
 
 ## Exploration
 > The rabbit hole of exploration
+
 ![avgMPGbyBrand](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/avgmpgbrand.png)
 ![mpgbyhp](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/mpgbyhp.png)
 ![mpgbytq](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/mpgbytq.png)
 ![mpgbyweight](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/mpgbyweight.png)
 ![mpgbydoors](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/mpgbydoorsDensity.png)
 
+<br><br><br>
+> Untill...
+
+![mpgbycyldense](https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/mpgbycyldense.png)
+
 ---
 ## Hypothesis
-
+After exploring the data, and thanks to the help of Tony and Andrew (my instructors) we saw that the MPG distribution of 5-Cylinder engines were Bimodal! This was interesting! Even having a bit of domain knowledge about cars, I couldn't exactly explain, or even prove why this was the case. So here we go! 
 
 
 
