@@ -46,8 +46,8 @@ Going into this EDA originally, I was set on trying to compare common features o
  **[Horsepower to MPG](#MPG-to-Horsepower-Scatter-Plot)**  |
  **[Torque to MPG](#MPG-to-Torque-Scatter-Plot)**  |
  **[Weight to MPG](#MPG-to-Weight-Scatter-Plot)**  |
- **[Passenger Door to MPG](#MPG-to-Passenger-Doors-Density-Plot)**  |
- **[Cylinders to MPG](#MPG-to-n_Cylinders-Density-Plot)**  |
+ **[Passenger Door to MPG](#MPG-to-Passenger-Doors-Density-Plot)**  |<br>
+ |  **[Cylinders to MPG](#MPG-to-n_Cylinders-Density-Plot)**  |
 
  
 > The rabbit hole of exploration
