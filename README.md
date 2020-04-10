@@ -274,6 +274,10 @@ four_cyl_desc
 <sub>[  **[Back to Sections](#sections)** ]</sub>
 
 ## Takeaways
+Thoughts:
+- The problem with these sort of comparisons lie in the fact that car manufacturers specifically design each vehicle for a purpose; this tends to include everything about the system, there is not much left to chance or much room for projection (hopefully not) 
+
+
 <details>
   <summary>
     Open at your own risk
