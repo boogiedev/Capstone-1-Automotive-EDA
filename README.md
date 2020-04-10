@@ -272,6 +272,10 @@ four_cyl_desc
 <sub>[  **[Back to Sections](#sections)** ]</sub>
 
 ## Takeaways
+<details>
+  <summary>
+    Open at your own risk
+  </summary>
 <img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/saitamanervous.gif" width="220"></img>
-
+</details>
 ---
