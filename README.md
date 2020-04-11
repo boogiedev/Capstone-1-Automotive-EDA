@@ -196,7 +196,7 @@ After exploring the data, and thanks to the help of Tony and Andrew (my instruct
 ## Analysis
 <br>
 
-After attempting to find the correct sort of statistical analysis in this situation, I ended up trying to bootstrap data given by the 5-CYL Dataset. I realized that I ended up going in the wrong direction with all of this, and am showing only a slice of the work that was committed towards analysis.  
+After attempting to find the correct sort of statistical analysis in this situation, I ended up trying to bootstrap data given by the 5-CYL Dataset. I realized that I ended up going in the wrong direction with all of this, and am showing only a slice of the work that was committed towards analysis. 
 
 ### MPG vs Cylinder Testing  <br>
 
@@ -253,8 +253,6 @@ four_cyl_desc
 <img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/focused_img/4v5bootstrap.png">
 
 
-
-
 ---
 <sub>[  **[Back to Sections](#sections)** ]</sub>
 
@@ -266,22 +264,28 @@ four_cyl_desc
 <sub>[  **[Back to Sections](#sections)** ]</sub>
 
 ## Shoutouts
-- All the Galvanize DS 120 Instructors for the Guidance
-- All the Galvanize DS 120 Instructors for listening to me stress
-- All the Galvanize DS 120 Instructors for being with me through my ups and downs
-- Pandas-Profiling for carrying me and my current lack of a statistical eye 
+<details>
+  <summary>
+  </summary>
+- All the Galvanize DS 120 Instructors for the Guidance <br>
+- All the Galvanize DS 120 Instructors for listening to me stress<br>
+- All the Galvanize DS 120 Instructors for being with me through my ups and downs<br>
+- Pandas-Profiling for carrying me and my current lack of a statistical eye<br> 
+</details>
+
 ---
 <sub>[  **[Back to Sections](#sections)** ]</sub>
 
 ## Takeaways
 Thoughts:
-- The problem with these sort of comparisons lie in the fact that car manufacturers specifically design each vehicle for a purpose; this tends to include everything about the system, there is not much left to chance or much room for projection (hopefully not) 
+- The problem with these sort of comparisons lie in the fact that car manufacturers specifically design each vehicle for a purpose; this tends to include everything about the system, there is not much left to chance or much room for projection
 
 
 <details>
   <summary>
     Open at your own risk
   </summary>
+When you're scrambling to find a hypothesis
 <img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/saitamanervous.gif" width="220"></img>
 </details>
 ---
