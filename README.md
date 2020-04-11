@@ -102,7 +102,7 @@ It was on this plot that I was pointed out that 5 Cylinder engines have a *Bimod
 
 > #### MPG-to-n_Cylinders-Density-Plot <img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/mpgbycyldense.png" width="80%"></img><br>
 
-As you can see, with the graphs, there has been a progression on centering the focus of what exact pieces of data I wanted to further explore 
+As you can see, with the graphs, there has been a progression on centering the focus of what exact pieces of data I wanted to further explore. 
 
 <details>
   <summary>
@@ -145,14 +145,6 @@ As you can see, with the graphs, there has been a progression on centering the f
     <b> 5-CYL Horsepower Densities by Manufacturer  </b>  
   </summary>
   <img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/focused_img/5cylhpmanufacturer.png">
-  </img>
-</details>
-
-<details>
-  <summary>
-    <b> Power Densities by Cylinder  </b>  
-  </summary>
-  <img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/focused_img/powdistbycyl.png">
   </img>
 </details>
 
@@ -285,7 +277,7 @@ Thoughts:
   <summary>
     Open at your own risk
   </summary>
-When you're scrambling to find a hypothesis
+When you're scrambling to find a hypothesis <br>
 <img src="https://raw.githubusercontent.com/boogiedev/automotive-eda/master/img/saitamanervous.gif" width="220"></img>
 </details>
 ---
